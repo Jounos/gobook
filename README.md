@@ -1,2 +1,2 @@
 # gobook
-Algoritmos of book: The Go Programming Language, for studying
+Algorithms of book: The Go Programming Language, for studying
